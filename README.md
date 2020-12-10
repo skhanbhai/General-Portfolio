@@ -14,3 +14,11 @@ Programming Portfolio
 Basic version of classic 1 person Pong Game created in Ruby using the [ruby2d](http://www.ruby2d.com/) gem.
 
 ![ruby_pong](https://github.com/skhanbhai/Pong-Game-Ruby/blob/main/PongGame.PNG)
+
+
+
+# Other Projects
+# [Project 3: Todo List (Django)](https://github.com/skhanbhai/Pong-Game-Ruby) 
+Text
+
+![Todo Django](https://github.com/skhanbhai/Todo-List-Django/blob/main/DjangoTodo.PNG)
