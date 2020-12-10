@@ -1,5 +1,5 @@
 # Welcome to Saqib's Portfolio Pages
-Data Science Portfolio
+Programming Portfolio
 
 # API Projects
 # [Project 1: Spotify Javascript API Interface](https://github.com/PlayingNumbers/ds_salary_proj) 
