@@ -21,4 +21,4 @@ Basic version of classic 1 person Pong Game created in Ruby using the [ruby2d](h
 # [Project 3: Todo List (Django)](https://github.com/skhanbhai/Pong-Game-Ruby) 
 Text
 
-![Todo Django](https://github.com/skhanbhai/Todo-List-Django/tree/main/Todo/DjangoTodo.PNG)
+![Todo Django](https://github.com/skhanbhai/Todo-List-Django/blob/main/Todo/DjangoTodo.PNG?raw=true)
