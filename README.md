@@ -13,7 +13,7 @@ Programming Portfolio
 # Summary
 Basic version of classic 1 person Pong Game created in Ruby using the [ruby2d](http://www.ruby2d.com/) gem.
 
-![ruby_pong](https://github.com/skhanbhai/Pong-Game-Ruby/blob/main/PongGame.PNG)
+![ruby_pong](https://raw.githubusercontent.com/skhanbhai/Pong-Game-Ruby/main/PongGame.PNG)
 
 
 
