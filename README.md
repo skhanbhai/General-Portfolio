@@ -2,7 +2,7 @@
 Programming Portfolio
 
 # API Projects
-# [Project 1: Spotify Javascript API Interface](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 1: Spotify API Interface (Javascript)](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that 
 * 
 
