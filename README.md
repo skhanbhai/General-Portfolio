@@ -11,6 +11,6 @@ Data Science Portfolio
 # Arcade Games
 # [Project 2: Pong Game (Ruby)](https://github.com/skhanbhai/Pong-Game-Ruby) 
 # Summary
-Basic version of classic 1 person Pong Game created in Ruby using the ruby2d gem [ruby2d](http://www.ruby2d.com/).
+Basic version of classic 1 person Pong Game created in Ruby using the [ruby2d](http://www.ruby2d.com/) gem.
 
 ![ruby_pong](https://github.com/skhanbhai/Pong-Game-Ruby/blob/main/PongGame.PNG)
