@@ -2,11 +2,10 @@
 Programming Portfolio
 
 # API Projects
-# [Project 1: Spotify API Interface (Javascript)](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that 
-* 
+# [Project 1: Spotify API Interface (Javascript)](https://github.com/skhanbhai/Spotify-JS-API-Interface) 
+Basic Web App displays the Tracks, Artists and Album Images of songs from popular playlists in the Spotify Genres. App built on top of the Spotify API.
 
-![](/images/positions_by_state.png)
+![SpotifyAPIApp](https://github.com/skhanbhai/Spotify-JS-API-Interface/blob/main/SpotifyAPIApp.PNG?raw=true)
 
 # Arcade Games
 # [Project 2: Pong Game (Ruby)](https://github.com/skhanbhai/Pong-Game-Ruby) 
