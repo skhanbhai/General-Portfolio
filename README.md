@@ -19,7 +19,7 @@ Basic version of classic 1 person Pong Game created in Ruby using the [ruby2d](h
 ## [Project 4: Snake Game (C++)](https://github.com/skhanbhai/Pong-Game-Ruby) 
 Basic snake game created using C++.
 
-![snake cpp]()
+![snake cpp](https://github.com/skhanbhai/SnakeGame-CPP/blob/main/SnakeGameShot.PNG?raw=true)
 
 
 
