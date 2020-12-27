@@ -35,4 +35,3 @@ Todo list created using Django on the backend written using python
 
 ![Todo Django](https://github.com/skhanbhai/Todo-List-Django/blob/main/Todo/DjangoTodo.PNG?raw=true)
 
-![FamilyTree](https://github.com/skhanbhai/General-Portfolio/blob/main/My-Family-24-Dec-2020-092212461.html)
