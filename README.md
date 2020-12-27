@@ -4,8 +4,7 @@
 # E-Commerce Site
 ## [Project 1: E Commerce Site (Javascript)](https://github.com/skhanbhai/Spotify-JS-API-Interface) 
 E-Commerce site created using:
-* React
-* Redux
+* React (w/ Redux)
 * NodeJS
 * MongoDB
 
