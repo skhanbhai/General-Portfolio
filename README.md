@@ -2,7 +2,7 @@
 ## Programming Portfolio
 
 # E-Commerce Site
-## [Project 1: E Commerce Site (Javascript)](https://github.com/skhanbhai/Spotify-JS-API-Interface) 
+## [Project 1: E Commerce Site (React)](https://github.com/skhanbhai/Spotify-JS-API-Interface) 
 E-Commerce site created using:
 * React (w/ Redux)
 * NodeJS
