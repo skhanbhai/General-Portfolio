@@ -31,7 +31,7 @@ Basic snake game created using C++.
 
 # Other Projects
 ## [Project 5: Todo List (Django)](https://github.com/skhanbhai/Todo-List-Django) 
-Todo list created using Django on the backend written using python
+Todo list created using Django on the backend written using Python
 
 ![Todo Django](https://github.com/skhanbhai/Todo-List-Django/blob/main/Todo/DjangoTodo.PNG?raw=true)
 
