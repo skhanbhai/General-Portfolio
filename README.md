@@ -3,6 +3,13 @@
 
 # E-Commerce Site
 ## [Project 1: E Commerce Site (Javascript)](https://github.com/skhanbhai/Spotify-JS-API-Interface) 
+E-Commerce site created using:
+* React
+* Redux
+* NodeJS
+* MongoDB
+
+![ModelStore](https://github.com/skhanbhai/ModelShop-WebApp/blob/main/ModelShop.PNG?raw=true)
 
 # API Projects
 ## [Project 2: Spotify API Interface (Javascript)](https://github.com/skhanbhai/Spotify-JS-API-Interface) 
